@@ -1,0 +1,40 @@
+repaso:
+
+primer paso:loguearse
+
+git config --global user.name"..."
+
+gir config --global user.email"..."
+
+segundo paso:crear repositorio
+
+iniciar repositorio con:
+
+git init
+
+tercer paso:
+
+definir a donde se va a enviar
+
+git remote remove origin (borra un destino) 
+
+git remote -v(para revisar el link que esta)  
+
+git remote add origin(+LINK) indicar el destino
+
+cuarto paso:
+
+git status:un comando que podemos llegar a usar
+
+revisar el estado de archivos 
+
+quintu paso:
+
+git add:añade los archivos
+ 
+git commit -m:guarda los cambios(con un nombre descriptivo)
+
+git branch -M main:abre una rama 
+
+git push:sube los cambios desde el repositorio local al remoteo
+
