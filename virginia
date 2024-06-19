@@ -28,7 +28,7 @@ git status:un comando que podemos llegar a usar
 
 revisar el estado de archivos 
 
-quintu paso:
+quinto paso:
 
 git add:añade los archivos
  
@@ -38,3 +38,5 @@ git branch -M main:abre una rama
 
 git push:sube los cambios desde el repositorio local al remoteo
 
+
+manzana
