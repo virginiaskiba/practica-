@@ -39,4 +39,4 @@ git branch -M main:abre una rama
 git push:sube los cambios desde el repositorio local al remoteo
 
 
-manzana
+
